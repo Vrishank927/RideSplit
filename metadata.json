@@ -1,0 +1,6 @@
+{
+  "name": "RideSplit",
+  "description": "Minimal daily vehicle usage tracker and monthly expense settlement calculator for Varun, Yashasvi, and Vrishank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
